@@ -44,6 +44,9 @@ Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/c
 <img width="1294" height="965" alt="image" src="https://github.com/user-attachments/assets/ce9563aa-f8b3-4021-b13e-064703cdf688" />
 <img width="1848" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1464ee0-5030-4aa5-8201-a97bf5ac098c" />
 
+FOR THE BAREBONES CODE ( JUST THE FUNCTIONS in essence purely backend that is meant to be tested in postman)A simple, lightweight Habit Tracker Backend built using Node.js + Express with JSON file storage (no database).
+This project implements clean CRUD APIs, proper folder structure, and a mock AI habit suggestion endpoint.
+JUST DO NPM RUN DEV after unzipping it and test with POSTMAN 
 
 
 
